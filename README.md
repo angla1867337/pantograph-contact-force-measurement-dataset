@@ -77,8 +77,3 @@ The run-level companion files should be used for independent recalculation of th
 ## Citation
 
 If you use these data, please cite the associated manuscript. Full journal citation and DOI information will be added after publication.
-
-## Contact
-
-Corresponding author: **Hu Zhang**, Central South University  
-Email: `zhanghu@csu.edu.cn`
