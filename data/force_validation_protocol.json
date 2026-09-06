@@ -1,0 +1,8 @@
+{
+  "LPF cutoff Hz": 400,
+  "calibration mean force error N": 0.0032219941141800263,
+  "full state contribution N": 0.6673295129044351,
+  "diagonal state contribution N": 0.6768319859725078,
+  "frozen uc N": 0.8974010690840917,
+  "MC mean absolute relative difference percent": 0.4499961429441951
+}

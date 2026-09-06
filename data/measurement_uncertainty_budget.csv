@@ -1,0 +1,7 @@
+Source,Input standard uncertainty,Sensitivity coefficient,Standard contribution (N)
+Correlated observer state vector,empirical covariance matrix,J_x,0.7091639941035605
+Panhead acceleration,0.100 m/s^2,-m1 = -6 kg,0.6
+Actuator force,0 N,1,0.0
+"Parameters m1, k1, c1",nominally exact,J_theta,0.0
+Combined standard uncertainty,,,0.9289655966552823
+Expanded uncertainty (k=2),,k = 2,1.8579311933105647

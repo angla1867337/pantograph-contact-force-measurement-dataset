@@ -1,0 +1,7 @@
+# Keep this repository data-only.
+*.pdf
+*.tex
+*.py
+*.m
+*.zip
+__pycache__/
